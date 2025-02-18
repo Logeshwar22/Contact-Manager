@@ -1,6 +1,4 @@
-<<<<<<< HEAD
- 
-=======
+
 # Contact Management System
 
 ## Description
